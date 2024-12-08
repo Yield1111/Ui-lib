@@ -1127,7 +1127,7 @@ function library:init()
             objects = {},
             colorpicker = {
                 objects = {};
-                color = c3new(1,0,0);
+                color = c3new(60,0,255);
                 trans = 0;
             };
             dropdown = {
