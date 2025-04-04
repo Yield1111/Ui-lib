@@ -152,7 +152,7 @@ function ESP:Get_Tool(Player)
 
     -- List of tool names to search for
     local ToolNames = {
-        "Military PKM", "Military M4A1", "Military MP7", "Salvaged AK-47", "Salvaged AK74u",
+        "Military PKM", "Military M4A1", "Military MP7", "Salvaged AK47", "Salvaged AK74u",
         "Salvaged SMG", "Salvaged Skorpion", "Military Barrett", "Military USP", "Salvaged Sniper", 
         "Salvaged Pipe Rifle", "Salvaged M14", "Salvaged Python", "Salvaged P250", "Military AA12", 
         "Salvaged Pump Action", "Salvaged Break Action", "Salvaged Shotgun", "Nail Gun", "Crossbow", 
