@@ -172,7 +172,7 @@ function ESP:Get_Tool(Player)
         end
     end
     -- Default return if no tool is found
-    return "Hands"
+    return ""
 end
 
 
